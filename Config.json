@@ -1,0 +1,11 @@
+{
+	"include_dir": [],
+	"lib_dir": [],
+	"linkers": [],
+	"flags": [],
+	"src": [],
+	"exclude_src": [],
+	"type": "cpp",
+	"build_name": "",
+	"run": true
+}
